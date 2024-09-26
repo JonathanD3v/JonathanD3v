@@ -1,16 +1,11 @@
-Hi, 👋 I’m AungZayarMyint.
+Hi there! 👋 I’m Aung Zayar Myint, but you can call me Jonathan. 😄
 
-.		👀 I’m interested in web development.
+👀 I’m super passionate about web development and always excited to build cool stuff.
 
+🌱 Currently diving deep into the MERN Stack (MongoDB, Express, React, Node) and loving every bit of it!
 
-.		🌱 I’m currently learning MERN Stack.
+📫 You can reach me at aungzayar1352000@gmail.com or connect with me on LinkedIn—let’s chat!
 
+⚡ Fun fact: I’m that person who will happily trade sleep for a good coding session. 🖥️💡
 
-.		📫 How to reach me: aungzayar1352000@gmail.com or on [LinkedIn](https://www.linkedin.com/in/aung-zayar-myint-757b32257/).
-
-
-.		😄 Pronouns: Jonathan.
-
-
-.		⚡ Fun fact: I love coding more than sleeping.
-
+Let’s create something awesome together!
