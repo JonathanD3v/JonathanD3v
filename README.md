@@ -4,7 +4,7 @@ Hi there! 👋 I’m Aung Zayar Myint, but you can call me Jonathan. 😄
 
 🌱 Currently diving deep into the MERN Stack (MongoDB, Express, React, Node) and loving every bit of it!
 
-📫 You can reach me at aungzayar1352000@gmail.com or connect with me on LinkedIn— https://www.linkedin.com/in/aung-zayar-myint-757b32257/ let’s chat!
+📫 You can reach me at aungzayarmyint.dev@gmail.com or connect with me on LinkedIn— https://www.linkedin.com/in/aung-zayar-myint-757b32257/ let’s chat!
 
 ⚡ Fun fact: I’m that person who will happily trade sleep for a good coding session. 🖥️💡
 
