@@ -51,5 +51,5 @@
 <div align="left">
 <a href="https://github.com/JonathanD3v">
 <img align="left" width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanD3v&layout=compact&theme=gruvbox" alt=JonathanD3v />
-<img align="center" height="180em" alt="JonathanD3v" />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SinuxDev&theme=gruvbox" alt="JonathanD3v" />
 </div>
