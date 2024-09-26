@@ -23,7 +23,7 @@
 
 <h3 align="center">Languages and Tools:</h3>  
 
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 2; text-align: center;">
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
