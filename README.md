@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SinuxDev&label=Profile%20views&color=0e75b6&style=flat" alt="JonathanD3v" /> </p>
 
-<img align="right" width=360 height=280 width=auto src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611jcpwd0ix2b3xgiijixclkmlq0aez99mi9p1yp4xb&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" width=360 height=250 width=auto src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611jcpwd0ix2b3xgiijixclkmlq0aez99mi9p1yp4xb&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **aungzayarmyint.dev@gmail.com**
