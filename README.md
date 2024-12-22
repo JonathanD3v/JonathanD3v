@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! 👋 I’m Aung Zayar Myint, but you can call me <h1>Jonathan</h1>. 😄</h2>
+<h2 align="center">Hi there! 👋 I’m Aung Zayar Myint, but you can call me Jonathan. 😄</h2>
 
 <h3 align="center">I’m passionate about learning new web technologies, with a current focus on the MERN Stack (MongoDB, Express.js, React.js, Node.js). <br /> I'm dedicated to enhancing my skills to build robust and scalable applications.</h3>
 
